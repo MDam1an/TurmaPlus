@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./createLucideIcon-CRVpWLfD.js";var n=t();function r({children:t,className:r,padded:i=!0}){return(0,n.jsx)(`div`,{className:e(`bg-surface rounded-2xl border border-line shadow-sm`,i&&`p-5`,r),children:t})}export{r as t};
